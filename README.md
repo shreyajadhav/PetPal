@@ -1,2 +1,2 @@
 # PetPal
-This is a silly webpage...that connects your pets to their soulmates.
+This is a silly webpage where your pets go to find romance, heartache, and maybe even that special someone.
